@@ -15,5 +15,8 @@ It implement a On/Off and Controll cluster, so you can reduce the luminosity.
 
 
 The first time the ZLight start it search for a available network.
+The two leds blink alternately.
+
 If you need to reset the network, press button 1 for more that 5 seconds.
+Then the ZLight will be reset the network configuration and it will begin to search for a new network, blinking the two leds
 
